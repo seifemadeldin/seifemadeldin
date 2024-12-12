@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Seif Ramadan</h1>
-<h3 align="center">I'm student studing game programming.</h3>
+<h3 align="center">I'm student studing network engineer.</h3>
 
 
-- 🔭 I’m currently working on **Introduction to Video Games Creation (IVGC)**
 
-- 🌱 I’m currently learning **Game programming in unity**
+
+- 🌱 I’m currently learning **CCNA and CCNP ENCOR**
 
 - 📫 How to reach me **seifemad100@gmail.com**
 
