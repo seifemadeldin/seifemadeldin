@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Seif Ramadan</h1>
-<h3 align="center">I'm student studing network engineer.</h3>
+<h3 align="center">A Network Engineer and Game Developer Enthusiast</h3>
 
+- 🌱 I’m currently learning **Linux Network Administration and Ubuntu Server Management**
+- 📚 I recently completed **CCNA and CCNP ENCOR** certifications
+- 🎮 Working on personal projects involving **Ubuntu Server, pfSense, and Active Directory**
+- 🔥 I also have experience in **Game Development using Unity and C#**
+- 💻 Building a mini home lab to gain hands-on experience in network administration
 
-
-
-- 🌱 I’m currently learning **CCNA and CCNP ENCOR**
-
-- 📫 How to reach me **seifemad100@gmail.com**
+- 📫 How to reach me: **seifemad100@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,5 +25,6 @@
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
+  <img src="https://github.com/cncf/landscape/blob/master/hosted_logos/vmware.svg" alt="vmware" width="40" height="40"/>
+  <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/pfsense.svg" alt="pfsense" width="40" height="40"/>
 </p>
-
